@@ -1,0 +1,4 @@
+baseURL = 'https://picapital.com'
+locale = 'en-us'
+title = 'My First Hugo Project'
+theme = 'ananke'
