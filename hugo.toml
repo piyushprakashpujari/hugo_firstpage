@@ -1,4 +1,4 @@
-baseURL = 'https://picapital.com'
+baseURL = 'https://piyushprakashpujari.github.io/hugo_firstpage/'
 locale = 'en-us'
 title = 'My First Hugo Project'
 theme = 'ananke'
